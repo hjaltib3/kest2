@@ -1,1 +1,89 @@
 # kest2
+11.1.3.4
+1. It closed the browser
+2. switch to, end task, provide feedback, debug, create dump file, run new task, Always on top, go to details, open file location, search online, properties.
+3. stopped, running.
+4. start, stop, restart, open services, search online, Go to details.
+5. 19%
+6.1429
+7.135
+8. 8 gb
+9. 4,9 gb
+10. 8 gb
+11. 100 kbps, intel(R) Ethernet connection
+12. ethernet
+13. 10,11,214,51
+14. sorts them by memory usage, lowest to highest
+15. displays memory in percentages
+16. organization
+17. apps & background processes
+18. expand, disconnect, manage user accounts.
+19. cortana, microsoft edge, microsoft edge update, onedrive, phone link, skype, windows security notifications
+20. how much certain processes are being used and the affects on the CPU
+21. End task, end process tree, provide feedback, set priority, set affinity, analyze wait chain, UAC virtualization, Create dump file, open file location, search online, properties, go to services
+22. It is the nr 1. tool in configuration and troubleshooting.
+11.1.4.11
+1. Folder 2 was moved into folder 1
+2. desktop
+3. copy text, open file 1. paste in file 2.
+4. A
+5. folder 1, folder 2
+6. music, videos, onedrive.
+7. Folder 1 became a quick access directory. to find used files quickly.
+8. intel, perflogs, program files, program files(x86), users, windows.
+9.hjaltib, public
+10. yes.
+11. documents, downloads, music, pictures, videos
+12. camera roll, documents, music, pictures, saved pictures, videos
+13. cut
+11.2.1.5
+1.category, large and small icons
+2. system security, user accounts, network and internet
+3. security and maintenance
+4. windows defender.
+5. internet options
+6. devices and printers
+7. devices and printers
+8. default programs
+9. programs and features
+10. programs and features
+11. credential manager
+12. credential manager
+13. taskbar and navigation
+14. file explorer options
+15. file explorer options
+16. region
+17. date and time 
+18. region
+19. speech recognition
+20. speech recognition
+11.2.2.3
+1. most daily things
+2. admin priviledges
+3.new password, reenter password, hint
+4. they can't accidentally mess settings up
+5. keep files. for when a user has made progress that needn't be lost
+6. hacker protection
+7. if the person isn't tech savvy
+8. if account is compromised but files need to be kept
+11.2.5.8
+1. 1920 mb
+2. C:
+3.2 gb
+4. C:
+5. optimization
+11.2.6.2
+1. all aditive equipment. for optimization
+2. other devices-unknown devices
+3. provider, date, version, signer
+4. search automatically, browse my computer
+5. snapshot. if a recently installed driver messes up. it goes back to a previous version in order to work. because i don't have a previous driver to go to.
+6.details, disable device, uninstall device
+11.3.1.11
+1.FAX
+2. if you turn off this service, you won't be able to print or see your printers. delete.
+3. IP helper, winhttp web proxy auto discovery service, network list service, network location awareness.
+4. so you don't make an irreversible mistake
+5. C:\PerfLogs\Desktop-EPE2RG1_20230206-000001\Datacollector01.csv
+6.save template
+11.3.2.7
