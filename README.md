@@ -154,4 +154,10 @@
 10. windows will shutdown in 2 minutes
 11. shutdown /a
 11.4.5.3 
-1. 
+1. 1 year
+2. microsoft windows network
+3. hjaltib
+4. djsoakdqw
+11.5.2.4
+1. DESKTOP-EPE2RG1
+2. DESKTOP-0IQ7KQB ShareKE
