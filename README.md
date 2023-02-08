@@ -87,4 +87,71 @@
 5. C:\PerfLogs\Desktop-EPE2RG1_20230206-000001\Datacollector01.csv
 6.save template
 11.3.2.7
-1.
+1.computer management-system tools-event viewer
+2. windows default
+3. 116 77 169
+4. 116 77 169
+5. 116 77 169
+6. red
+7. so only one person needs to be an admin and the rest safer.
+8. it wasn't
+11.3.2.8
+1. intel(R) Core(TM) i3-4160 CPU @ 3.60GHZ, 3600 Mhz, 2 Core(s), 4 Logical Processors
+2. American Megatrends Inc. P2,00, 7/27/2015
+3. 7.68 GB
+4. ECP Printer Port, Direct memory access controller
+5. Intel(R) HD Graphics 4400
+6. 1.00 GB (1,073,741,824 bytes)
+7. Startup programs
+8. normal, diagnostic, selective
+9. yes
+10. configure tools to manage computer. task manager, custom tools etc. 
+11. system information
+12. monitor system information
+13. sound system information
+14. external system information. mouse, keyboard etc.
+15. there aren't any
+16. in order to troubleshoot said system
+17. if you're unhappy with startup protocols
+11.4.1.5
+1.another command line appears
+2. CD = change directory, CHKDSK = acces denied, COPY = copies certain files followed by the command, Del = deletes certain files followed by the command, Dir = tells you what directory you're in, diskpart = opens disk manager command prompt, exit = quits directory, format = sort parameter followed by the command, GPResult = displays resultant set of policies, MD = displays my directory, Tasklist = displays all tasks currently open, rd = redirect, robocopy = robust file copy, shutdown = displays shutdown protocols, xcopy = copies all files between two parameters
+3. mkdir a, mkdir b, mkdir c, cd c
+4. md
+5. clear
+6. clear
+7. clear
+11.4.2.7
+1. c:\users\Hjaltib
+2. ITEfolder3
+3. md
+4. ITEfolder4
+5. ITEfolder5
+6. ITEfolder4
+7. XDEL doc2
+8. DEL ITEfolder1
+9. robocopy
+10. GUI is easier to use but you can do way more stuff with GLI
+11.4.3.2
+1. f
+2. x
+3. v
+4. access denied
+5. NTFS
+6. 4
+7. querymax
+8. 509 mb
+11.4.4.2
+1.format 
+2. ft
+3. tasklist /FT, notepad
+4. s
+5. tasklist cputime
+6. taskkill (username)
+7. scanfile
+8. format: table
+9. shutdown /l
+10. windows will shutdown in 2 minutes
+11. shutdown /a
+11.4.5.3 
+1. 
