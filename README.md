@@ -161,3 +161,22 @@
 11.5.2.4
 1. DESKTOP-EPE2RG1
 2. DESKTOP-0IQ7KQB ShareKE
+3. yes
+4. no. access denied
+5. read permissions
+6. change and full control permissions
+7. yes
+8. map network drive
+11.5.2.6.2
+1. DESKTOP-EPE2RG1
+2. 3389
+3. ipconfig
+4. test1
+5. test1
+6. do you want to allow DESKTOP-EPE2RGI to connect to this machine? 30 seconds
+7. 6 hours
+8. save this invitation as a file
+9. collaboration with co-workers or troubleshooting
+10. 1 maximum. after that everyone else is kicked
+11. authentication
+12. work from home. you can connect to a computer you have at home without leaving the workplace.
